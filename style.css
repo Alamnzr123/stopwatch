@@ -1,0 +1,102 @@
+body {
+    background: rgba(231, 239, 249, 1);
+
+}
+
+.wrapper {
+    color: white;
+    text-align: center;
+    position: absolute;
+    top: 10%;
+    left: 30%;
+}
+
+#set-stopwatch {
+    width: 446px;
+    height: 120px;
+    left: 163px;
+    top: 0px;
+    margin-left: 170px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 80px;
+    line-height: 120px;
+    /* identical to box height */
+
+    text-align: center;
+
+    /* Color 2 */
+
+    color: #43648B;
+}
+
+.display {
+    margin: 336, 333, 111, 333;
+    width: 771px;
+    height: 249px;
+    left: 0px;
+    top: 0px;
+
+    background: #E7EFF9;
+    /* Shadow Down */
+
+    box-shadow: -19px -10px 50px #F5FAFF, 44px 29px 50px -16px #BCC7D5, inset 12px 11px 30px #E9F1FB;
+    border-radius: 51px;
+}
+
+#time {
+    position: absolute;
+    width: 512px;
+    height: 144px;
+    left: 130px;
+    top: 203px;
+    right: 129px;
+    bottom: 202px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 96px;
+    line-height: 144px;
+    /* identical to box height */
+
+    text-align: center;
+
+    /* Color 2 */
+
+    color: #43648B;
+}
+
+button {
+    border: none;
+    width: 220.1px;
+    height: 120px;
+    margin: 56px 10px;
+    top: 505px;
+
+    background: #E7EFF9;
+    /* Shadow Down */
+
+    box-shadow: -19px -10px 50px #F5FAFF, 44px 29px 50px -16px #BCC7D5, inset 12px 11px 30px #E9F1FB;
+    border-radius: 30px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 60px;
+    /* identical to box height */
+
+    text-align: center;
+
+    /* Off */
+
+    color: #BAC8D9;
+}
+
+button:hover {
+    border: solid 2px rgb(22, 171, 230);
+    color: #49A891;
+}
