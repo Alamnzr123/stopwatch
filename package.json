@@ -1,0 +1,17 @@
+{
+  "name": "stopwatch",
+  "version": "1.0.0",
+  "description": "Stopwatch Application I used this for content Instagram Pijar Camp - 2022",
+  "repository": {
+    "url": "https://github.com/Alamnzr123/stopwatch"
+  },
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Rahmad Alamsyah Nazaruddin",
+    "email": "nzr.rahmad@gmail.com"
+  },
+  "license": "ISC"
+}
