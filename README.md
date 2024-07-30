@@ -1,6 +1,8 @@
 # Stopwatch Application
 Build with HTML 5, CSS and Javascript
 
+![pic](pic-stopwatch.png)
+
 ## Getting Started
 
 First, run from Text Editor using Live Server Extension:
